@@ -1,3 +1,16 @@
+	Hello! 
+
+	So this was my version of the conversion from vanilla JS to react with Hooks of https://github.com/bradtraversy/vanillawebprojects/tree/master/movie-seat-booking
+	
+	I tried to give my own spin on it, of course, some features are missing like checking for name duplicates but I was trying to aim more for the Hooks implementation with several Contexts.
+
+	In real world this approach wouldn't be the one used, I would go for vanilla JS.
+	
+	So enjoy, I hope you learn something and if you feel like it send me a message!
+
+	Thank you.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
